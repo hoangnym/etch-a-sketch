@@ -1,0 +1,1 @@
+This is the second of the three odin projects: etch-a-sketch.
